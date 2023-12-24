@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "текстовый конвертер", "текстовый конвертер\текстовый конвертер.csproj", "{DE275701-D4F9-4FC4-B54B-EDAD9A30601E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE275701-D4F9-4FC4-B54B-EDAD9A30601E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE275701-D4F9-4FC4-B54B-EDAD9A30601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE275701-D4F9-4FC4-B54B-EDAD9A30601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE275701-D4F9-4FC4-B54B-EDAD9A30601E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A54C2F-4CE0-4C8F-B459-6FAD1B90B875}
+	EndGlobalSection
+EndGlobal
